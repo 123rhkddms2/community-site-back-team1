@@ -29,6 +29,10 @@
 - 오아람 : 회원, 고객센터, 채팅 구현
 - 김광은 : 게시판, 캘린더 구현
 
+## 6. 시연 영상
+[![시연 영상](http://img.youtube.com/vi/qenSoYeryHw/0.jpg)](https://www.youtube.com/watch?v=qenSoYeryHw)
+
+
 ## 프로젝트 버전 업데이트 내역
 ### 0.0.1-SNAPSHOT / 24.05.24
 - 게시판 글 목록, 상세 뷰, 글쓰기, 글 수정 작업
