@@ -33,8 +33,7 @@
 [![시연 영상](http://img.youtube.com/vi/qenSoYeryHw/0.jpg)](https://www.youtube.com/watch?v=qenSoYeryHw)
 
 ## 7. 프로젝트 ppt
-[프로젝트 PPT 다운로드](파일_링크)
-
+[프로젝트 PPT 다운로드](./zeropie_pptx.pptx)
 
 ## 프로젝트 버전 업데이트 내역
 ### 0.0.1-SNAPSHOT / 24.05.24
